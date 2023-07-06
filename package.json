@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@heroicons/react": "^2.0.18",
+    "react-fast-marquee": "^1.6.0"
+  }
+}
