@@ -99,3 +99,50 @@ transition: 0.3s;
   height: auto;
   width: 70%;
 }
+
+.how-it-works {
+  position: relative;
+  margin-bottom: 106px;
+}
+
+.how-it-works-header {
+  margin-top: 48px;
+  margin-bottom: 28px;
+}
+
+.how-it-works-caption {
+  font-size: 20px;
+  color: #667085;
+  margin-bottom: 100px;
+}
+
+.action-card-header {
+  font-size: 20px;
+}
+
+.action-card-caption {
+  font-size: 16px;
+  color:#667085;
+}
+
+.action-card-link {
+  font-size: 16;
+  color: #5461F9;
+}
+
+.subscribe {
+ margin-right: 32px;
+}
+
+.request {
+  margin-right: 32px;
+}
+
+.card-link-container {
+  display: flex;
+  align-items: center;
+}
+
+.arrow-icon {
+  margin-left: 8px; /* Adjust the margin as needed */
+}
